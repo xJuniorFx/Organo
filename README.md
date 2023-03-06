@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
+<p align="center"> <img src="./public/imagens/alura.png" alt="React: desenvolvendo com javascript"> </p>
 
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
