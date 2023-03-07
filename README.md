@@ -2,7 +2,7 @@
 
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Este projeto teve como sua base as informações disponiveis no Figma e apartir desass informaçoes foi desenvolvido uma App web, utilizando o React como framework</p>
+<p align="center">Este projeto teve como sua base as informações disponíveis no Figma e a partir dessas informações foi desenvolvido uma App web, utilizando o React como framework</p>
 
 
 ## Tecnologias utilizadas no projeto
